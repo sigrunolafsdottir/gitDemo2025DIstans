@@ -8,4 +8,6 @@ public class MinKlass {
     private int var3 = 7;
 
     private int  var4 = 2;
+
+    private int  var5 = 5;
 }
